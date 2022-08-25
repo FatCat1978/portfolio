@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `Connor Moffatt || Game Developer`,
     // Description that goes under your name in main bio
-    description: `Certified idiot.`,
+    description: `Certified idiot, always working to become a Certified less-idiot.`,
     // Optional: Twitter account handle
     author: `@Connor__Moffatt`,
     // Optional: Github account URL
@@ -21,38 +21,38 @@ module.exports = {
       {
         name: 'Dungeon Baller',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'An unfinished mobile game, taking the idea of "Rougelike minigolf" and running with it. The result? a conceptually fun little game to play when you have a spare minute. Has unity ads integration built in, along with a simple score tracking/streak system. in dire need of an art pass, but it\'s pretty fun.',
+        link: 'https://github.com/FatCat1978/RandomLevelBallGame',
       },
       {
         name: 'Paint Slurper',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+          'An incomplete game-jam project about a little dude who loves to slurp paint. First person puzzle game involving the mixed colours of slurped paint, and painting objects in the enviroment by spitting on them - resulting in enviromental changes like doors opening or lights turning on. Never got past the conceptual stage. I did all the programatic work, art was made by Etienne Depris',
+        link: 'https://github.com/FatCat1978/Paint-Slurper',
       },
       {
         name: 'Cold War',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'A basic, first person shooter made as an academic group project with Joey Smith and Kyle Richardson. Grab snowballs, throw them at your foes. I did a lot of the work on projectiles, commissioning the model, and weapon animations.',
+        link: 'https://github.com/FatCat1978/Cold-War',
       },
       {
         name: 'ConnorOids',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'An Academic project making use of both the box2d physics library, and the Blit3D openGL framework. A lot of it was experimenting with effects like camera shaking.',
+        link: 'https://github.com/FatCat1978/Connorids',
       },
       {
         name: 'Asteroids',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
+          'The pinnicle of my time developing 2d games in the box2d Framework. a "fully featured" 2d asteroids-esq shooter, featuring score tracking, splitting targets, and WWyse sounds - though the public repo doesn\'t have those avalible. for ease of compilation',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {
-        name: 'Boids',
+        name: 'Auto Email Printer',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'A productivity tool made in the .net framework. It connects to a google account, fetches new emails, and sends them to the default windows print utility - in this case, notepad. This allows me to send emails straight to a receipt printer on my desk.',
+        link: 'https://github.com/FatCat1978/Auto-Email-Printer',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
